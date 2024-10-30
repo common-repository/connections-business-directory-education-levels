@@ -1,0 +1,120 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Connections Education Levels\n"
+"POT-Creation-Date: 2019-07-18 13:02-0400\n"
+"PO-Revision-Date: 2015-06-24 11:50-0500\n"
+"Last-Translator: Steven A. Zahm <helpdesk@connections-pro.com>\n"
+"Language-Team: Steven A. Zahm <helpdesk@connections-pro.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.3\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-WPHeader: connections_education_levels.php\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: connections_education_levels.php:214
+msgid "Choose..."
+msgstr ""
+
+#: connections_education_levels.php:215
+msgid "1st - 4th Grade"
+msgstr ""
+
+#: connections_education_levels.php:216
+msgid "5th - 6th Grade"
+msgstr ""
+
+#: connections_education_levels.php:217
+msgid "7th - 8th Grade"
+msgstr ""
+
+#: connections_education_levels.php:218
+msgid "9th Grade"
+msgstr ""
+
+#: connections_education_levels.php:219
+msgid "10th Grade"
+msgstr ""
+
+#: connections_education_levels.php:220
+msgid "11th Grade"
+msgstr ""
+
+#: connections_education_levels.php:221
+msgid "12th Grade No Diploma"
+msgstr ""
+
+#: connections_education_levels.php:222
+msgid "High School Graduate"
+msgstr ""
+
+#: connections_education_levels.php:223
+msgid "Some College No Degree"
+msgstr ""
+
+#: connections_education_levels.php:224
+msgid "Associate's Degree, occupational"
+msgstr ""
+
+#: connections_education_levels.php:225
+msgid "Associate's Degree, academic"
+msgstr ""
+
+#: connections_education_levels.php:226
+msgid "Bachelor's Degree"
+msgstr ""
+
+#: connections_education_levels.php:227
+msgid "Master's Degree"
+msgstr ""
+
+#: connections_education_levels.php:228
+msgid "Professional Degree"
+msgstr ""
+
+#: connections_education_levels.php:229
+msgid "Doctoral Degree"
+msgstr ""
+
+#: connections_education_levels.php:296 connections_education_levels.php:346
+#: connections_education_levels.php:395 connections_education_levels.php:397
+#: connections_education_levels.php:424 includes/class.widgets.php:20
+#: includes/class.widgets.php:25 includes/class.widgets.php:72
+#: includes/class.widgets.php:123
+msgid "Education Level"
+msgstr ""
+
+#: includes/class.widgets.php:80
+msgid "Title:"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Connections Business Directory Extension - Education Level"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://connections-pro.com/add-on/education-level/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"An extension for the Connections plugin which adds a metabox for education "
+"levels."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Steven A. Zahm"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://connections-pro.com"
+msgstr ""
